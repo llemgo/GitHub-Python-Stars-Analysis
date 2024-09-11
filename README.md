@@ -15,5 +15,8 @@ Visualization: The processed data is visualized using plotly.express to create a
 ### 📈 Results
 The bar chart displays repositories like public-apis, Python, Auto-GPT, and system-design-primer as some of the most popular Python projects on GitHub.
 
+![image](https://github.com/user-attachments/assets/f6632582-336d-40f8-a36d-fd691d3efb24)
+
+
 ### 📄 License
 This project is licensed under the MIT License.
